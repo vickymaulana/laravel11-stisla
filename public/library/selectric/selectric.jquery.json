@@ -1,0 +1,29 @@
+{
+  "name": "selectric",
+  "version": "1.13.0",
+  "title": "jQuery Selectric",
+  "author": {
+    "name": "Leonardo Santos",
+    "email": "leocs.1991@gmail.com"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "http://opensource.org/licenses/MIT"
+  },
+  "dependencies": {
+    "jquery": ">=1.7"
+  },
+  "description": "Fast, simple and light jQuery plugin to customize HTML selects",
+  "keywords": [
+    "select",
+    "selectbox",
+    "dropdown",
+    "form",
+    "input",
+    "ui"
+  ],
+  "docs": "http://lcdsantos.github.io/jQuery-Selectric/",
+  "demo": "http://lcdsantos.github.io/jQuery-Selectric/demo.html",
+  "bugs": "https://github.com/lcdsantos/jQuery-Selectric/issues",
+  "homepage": "http://lcdsantos.github.io/jQuery-Selectric/"
+}

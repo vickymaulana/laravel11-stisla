@@ -1,0 +1,16 @@
+.selectric-custom-options .ico {
+  display: inline-block;
+  vertical-align: middle;
+  zoom: 1;
+  *display: inline;
+  height: 30px;
+  width: 30px;
+  margin: 0 6px 0 0;
+  background: url(./img/browser-icons.png) no-repeat;
+}
+
+.selectric-custom-options .ico-chrome  { background-position: 0 0; }
+.selectric-custom-options .ico-firefox { background-position: -30px 0; }
+.selectric-custom-options .ico-ie      { background-position: -60px 0; }
+.selectric-custom-options .ico-opera   { background-position: -90px 0; }
+.selectric-custom-options .ico-safari  { background-position: -120px 0; }
